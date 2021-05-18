@@ -1,0 +1,26 @@
+/* Body */
+body {
+    font-family: "Roboto", Arial, Verdana, sans-serif;
+    color: hsl(209,61%,16%);
+    background: hsl(210, 36%, 96%);
+}
+
+/* Video */
+.preloader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: white;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    visibility: visible;
+    z-index: 999;
+}
+
+.hide-preloader {
+    z-index: -999;
+    visibility: hidden;
+}
