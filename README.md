@@ -10,6 +10,10 @@ As a user, I expect controls on the video.
 
 As a user, I expect muted, autoplay and loop.
 
+As a user, I expect the preloader to display for a few seconds.
+
+The video contains typing the words 'The quick brown fox jumps over the lazy dog' in Microsoft Word.
+
 ## Features
 
 The ability to play and pause videos.
@@ -24,7 +28,7 @@ Ensure that user stories have been met.
 
 ## Deployment
 
-To be deployed on GitHub Pages at the main branch.
+To be deployed on [GitHub Pages](https://derektypist.github.io/video-js) at the main branch.
 
 ## Credits
 
